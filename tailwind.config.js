@@ -2,7 +2,7 @@
 module.exports = {
     darkMode: ["class"],
     plugins: {
-        tailwindcss: {},
+        '@tailwindcss/postcss': {},
         autoprefixer: {},
       },
     content: [
