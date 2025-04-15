@@ -20,6 +20,11 @@ This platform integrates state-of-the-art tools and frameworks to create a seaml
 
 ---
 
+<p align="center">
+<img src="./public/Moniq_Dashboard.png" alt="Moniq SS" width="700" height="450" />
+</p>
+
+
 ## Key Features
 
 - **Intelligent Financial Insights:** Harness the power of AI (Gemini AI) to analyze spending patterns, predict trends, and provide actionable recommendations.
@@ -27,6 +32,11 @@ This platform integrates state-of-the-art tools and frameworks to create a seaml
 - **Advanced Analytics & Reporting:** Visualize financial data with interactive dashboards and detailed reports.
 - **Secure & Scalable Architecture:** Built on Supabase for robust backend services and secure data handling.
 - **Customizable UI:** Experience a sleek, responsive design with Shadcn UI components and Tailwind CSS.
+
+<p align="center">
+<img src="./public/Moniq SS.png" alt="Moniq SS" width="500" height="300" />
+</p>
+
 
 ---
 
@@ -104,6 +114,11 @@ Before starting, ensure your environment meets the following requirements:
    Once running, open your browser and navigate to [http://localhost:3000](http://localhost:3000) to explore the platform.
 
 ---
+
+<p align="center">
+<img src="./public/Moniq_BudgetOverview.png" alt="Moniq SS" width="500" height="450" />
+</p>
+
 
 ## Usage
 
